@@ -1,0 +1,3 @@
+# Uncommon Python Error: Stack Overflow in Recursive Functions
+
+This repository demonstrates a common coding error in Python: a stack overflow error caused by an improperly designed recursive function. The `bug.py` file contains the erroneous code.  The `bugSolution.py` file provides a corrected version. The recursive function attempts to calculate Fibonacci numbers, but will crash for larger values of 'n' due to excessive recursion depth.
